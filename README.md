@@ -3,6 +3,7 @@
 ### To run the application locally, copy the repository,<br> go to the "startup" directory in Explorer and run "run.sh".<br> To stop, run "stop .sh"
 
 # Endpoints
+### All endpoints except /aurh require an access token!
 
 ## 1. Authentication/Registration
 ### /api/v1/auth/register
