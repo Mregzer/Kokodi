@@ -4,7 +4,7 @@
 
 # Endpoints
 ### All endpoints except /aurh require an access token!
-###Note: The current game move is the first element of the turnHistory list.
+### Note: The current game move is the first element of the turnHistory list.
 
 ## 1. Authentication/Registration
 ### /api/v1/auth/register
